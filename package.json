@@ -1,0 +1,24 @@
+{
+  "name": "gulp-esm-issue",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "gulp"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/phated/gulp-esm-issue.git"
+  },
+  "keywords": [],
+  "author": "Blaine Bublitz <blaine.bublitz@gmail.com> (https://github.com/phated)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/phated/gulp-esm-issue/issues"
+  },
+  "homepage": "https://github.com/phated/gulp-esm-issue#readme",
+  "devDependencies": {
+    "esm": "^3.2.22",
+    "gulp": "^4.0.1"
+  }
+}
